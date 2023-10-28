@@ -1,14 +1,16 @@
-<div align="center">
-  <!-- Add your profile image here -->
+ <!-- <div align="center">
+  <!-- Add your profile image here 
   <img style="border-radius: 50%" src="https://github.com/saisabari24/saisabari24/assets/43312501/40289d96-beb3-4258-9f7d-43a62e3a8c67" alt="Sabari Aditiyaa" width="200" height="200">
 </div>
+-->
 
 <div align="center">
 <h2>Fullstack Developer 🌐| AWS Enthusiast ☁️ | Blockchain & Web3 Enthusiast 🔗</h2>
+
+
+ ## Hey there! I'm Sabari Aditiyaa
+ I'm a passionate Fullstack Developer with a strong focus on AWS cloud services, Docker, Kubernetes, and a deep interest in blockchain technology and Web3. I love building innovative web applications and exploring the decentralized world.
 </div>
-
-Hey there! I'm Sabari Aditiyaa, a passionate Fullstack Developer with a strong focus on AWS cloud services, Docker, Kubernetes, and a deep interest in blockchain technology and Web3. I love building innovative web applications and exploring the decentralized world.
-
 
 <div align="center">
   <!-- Add your technology stack or tools logos here -->

@@ -5,7 +5,7 @@
 -->
 
 <div align="center">
-<h2>Fullstack Developer 🌐| AWS Enthusiast ☁️ | Blockchain & Web3 Enthusiast 🔗</h2>
+<h2>Fullstack Developer 🌐| AWS Enthusiast ☁️ | Blockchain & Web3 Evangalist 🔗</h2>
 
 
  ## Hey there! I'm Sabari Aditiyaa

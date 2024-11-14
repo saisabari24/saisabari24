@@ -9,8 +9,12 @@
 
 
  ## Hey there! I'm Sabari Aditiyaa
- I'm a passionate Fullstack Developer with a strong focus on AWS cloud services, Docker, Kubernetes, and a deep interest in blockchain technology and Web3. I love building innovative web applications and exploring the decentralized world.
-</div>
+Versatile Cloud DevOps Engineer with 4+ years of experience in designing, deploying, and
+managing cloud infrastructure, specializing in AWS, Docker, Kubernetes, Terraform, Ansible, and
+Jenkins. Skilled in automating and optimizing CI/CD pipelines to enhance deployment efficiency
+and system reliability. Proven track record in infrastructure as code (IaC), security protocols, and
+monitoring to support scalable, high-availability applications. Adept at driving cross-functional
+collaboration to align technical solutions with business objectives.</div>
 
 <div align="center">
   <!-- Add your technology stack or tools logos here -->

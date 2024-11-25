@@ -27,19 +27,23 @@ collaboration to align technical solutions with business objectives.</div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50">
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="50">
   <img src="https://academyflorida.com/wp-content/uploads/2019/11/aws.png" alt="AWS" width="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="50">
   <!-- Add more logos as needed -->
 </div>
 
 ## My Skills 💡
 
-- Front-end: React, Redux 🌐
-- Back-end: Node.js, Express, Java, Spring Boot 🚀
-- Database: MongoDB, MySQL, PostgreSQL, Redis 📊
-- Containerization: Docker, Kubernetes 🐳
-- Cloud Services: AWS,Lambda, ElasticBeanstalk,S3 ☁️
-- Web Server & Load Balancing: Nginx & Netflix Eureka 🌐
-- Scripting for Automation 🤖
-- Blockchain and Web3 🔗
+- **Cloud Platforms**: AWS, Azure, GCP ☁️
+- **Automation**: Terraform, Ansible, CloudFormation 🤖
+- **Containerization & Orchestration**: Docker, Kubernetes, Amazon ECS 🐳
+- **CI/CD Pipelines**: Jenkins, GitHub Actions, GitLab CI/CD 🚀
+- **Monitoring & Logging**: Grafana, Prometheus, ELK Stack 📈
+- **Back-End Development**: Node.js, Java (Spring Boot) 💻
+- **Scripting for Automation**: Bash, Python, Groovy 🖋️
+- **Version Control**: Git, GitHub, Bitbucket 🔄
+- **Infrastructure Security**: IAM, Security Groups, WAF, and compliance tools 🔐
+- **Blockchain and Web3** 🔗
 
 
 ## Languages and Tools:
@@ -120,10 +124,27 @@ collaboration to align technical solutions with business objectives.</div>
     <a href="https://redis.io" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" />
     </a>
+   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+   </a> 
+   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
+</a> 
+<a href="https://grafana.com" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
+ </a> 
+<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+ <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> 
+</a> 
+<a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer">
+ <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/>
+ </a>
 </p>
 
 
 ## Portfolio 🌟
+
+- <a href="https://github.com/saisabari24/starbucks">Starbucks </a> - Deployed in AWS utilising CI/CD pipeline Using Jenkins, Sonarqube, Docker and Trivy.
 
 - <a href="https://github.com/saisabari24/flexibble">Flexibble </a> - powered by Nextjs, TypeScript, and MongoDB, promoting creative freedom in web development.
   
@@ -134,13 +155,12 @@ collaboration to align technical solutions with business objectives.</div>
 
 ## AWS Expertise 📡
 
-I have a deep understanding of AWS services, including but not limited to:
-- Amazon EC2 for scalable virtual servers 💻
-- Amazon S3 for object storage 🗄️
-- Amazon RDS for managed relational databases 🎲
-- AWS Lambda for serverless computing 🚀
-- Amazon ECS for container orchestration 🐳
-- AWS CloudFormation for infrastructure as code 🛠️
+- **Compute**: Amazon EC2, Lambda, Elastic Beanstalk
+- **Storage**: Amazon S3, EFS, RDS
+- **Networking**: VPC, Load Balancers, Route 53
+- **DevOps**: CodePipeline, CodeBuild, CodeDeploy
+- **Management**: CloudWatch, CloudTrail, AWS Config
+- **Security**: IAM, KMS, AWS WAF, Shield
 
 ## Web3 Expertise 🌐
 

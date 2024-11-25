@@ -9,12 +9,8 @@
 
 
  ## Hey there! I'm Sabari Aditiyaa
-Versatile Cloud DevOps Engineer with 4+ years of experience in designing, deploying, and
-managing cloud infrastructure, specializing in AWS, Docker, Kubernetes, Terraform, Ansible, and
-Jenkins. Skilled in automating and optimizing CI/CD pipelines to enhance deployment efficiency
-and system reliability. Proven track record in infrastructure as code (IaC), security protocols, and
-monitoring to support scalable, high-availability applications. Adept at driving cross-functional
-collaboration to align technical solutions with business objectives.</div>
+Seasoned Cloud DevOps Engineer with 4+ years of hands-on experience in architecting, implementing, and optimizing cloud infrastructure solutions. Specialized in AWS, Kubernetes, Terraform, CI/CD pipelines, and infrastructure as code (IaC). Proficient in automating deployments, enhancing system reliability, and implementing robust security and monitoring solutions. Known for aligning technical strategies with business objectives and fostering cross-functional collaboration to deliver scalable and high-availability systems.
+</div>
 
 <div align="center">
   <!-- Add your technology stack or tools logos here -->
@@ -29,6 +25,7 @@ collaboration to align technical solutions with business objectives.</div>
   <img src="https://academyflorida.com/wp-content/uploads/2019/11/aws.png" alt="AWS" width="50">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="50">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="50">
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="50" height="50" />
   <!-- Add more logos as needed -->
 </div>
 
@@ -139,6 +136,9 @@ collaboration to align technical solutions with business objectives.</div>
 <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer">
  <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/>
  </a>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="40" height="40">
 </p>
 
 

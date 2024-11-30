@@ -33,7 +33,7 @@ Seasoned Cloud DevOps Engineer with 4+ years of hands-on experience in architect
 
 - **Cloud Platforms**: AWS, Azure, GCP ☁️
 - **Automation**: Terraform, Ansible, CloudFormation 🤖
-- **Containerization & Orchestration**: Docker, Kubernetes, Amazon ECS 🐳
+- **Containerization & Orchestration**: Docker, Kubernetes, Amazon ECS & EKS 🐳
 - **CI/CD Pipelines**: Jenkins, GitHub Actions, GitLab CI/CD 🚀
 - **Monitoring & Logging**: Grafana, Prometheus, ELK Stack 📈
 - **Back-End Development**: Node.js, Java (Spring Boot) 💻

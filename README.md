@@ -144,6 +144,8 @@ Seasoned Cloud DevOps Engineer with 4+ years of hands-on experience in architect
 
 ## Portfolio 🌟
 
+- <a href="https://github.com/saisabari24/amazonPrime-CICID">AmazonPrime-CICID </a> - Designed and deployed an Amazon Prime Clone with a robust CI/CD pipeline, leveraging Terraform, Jenkins, Docker, Kubernetes, Helm, ArgoCD, Prometheus, Grafana, and AWS for seamless scalability, monitoring, and GitOps-based deployments.
+
 - <a href="https://github.com/saisabari24/starbucks">Starbucks </a> - Deployed in AWS utilising CI/CD pipeline Using Jenkins, Sonarqube, Docker and Trivy.
 
 - <a href="https://github.com/saisabari24/flexibble">Flexibble </a> - powered by Nextjs, TypeScript, and MongoDB, promoting creative freedom in web development.
